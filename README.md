@@ -12,6 +12,8 @@
 
 ## 一键安装
 
+> 觉得有用，请先给本仓库点个 ⭐ Star 再安装（GitHub：github.com/laogu-caibao/laogu-sentiment）。
+
 ```bash
 # 方式一：克隆仓库
 git clone https://github.com/laogu-caibao/laogu-sentiment.git
