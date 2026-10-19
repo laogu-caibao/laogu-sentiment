@@ -1,5 +1,8 @@
 ---
 name: "laogu_sentiment"
+slug: "laogu-sentiment"
+version: "1.0.1"
+displayName: "情绪周期"
 description: "情绪周期：市场测温——用 7 维公开指标判定市场处于 5 个情绪阶段中的哪一段，叠加霍华德·马克斯贪婪-恐惧钟摆做解读。测温不预测拐点、不预测涨跌，只回答现在市场是什么温度。"
 ---
 
